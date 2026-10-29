@@ -1,11 +1,32 @@
 # 🖥️ DERO — 実測ベースの3Dデスク環境シミュレーター
 
-<p align="center">
-  <img src="docs/readme/slide-01.png" alt="01 プロジェクト紹介" width="100%">
-  <img src="docs/readme/slide-02.png" alt="02 背景と課題" width="100%">
-  <img src="docs/readme/slide-03.png" alt="03 主な機能" width="100%">
-  <img src="docs/readme/slide-04.png" alt="04 実行画面" width="100%">
-</p>
+> **買う前に、わたしのデスクを3Dで先に配置してみよう。**
+> 実際の製品規格をもとにデスク環境を構成し、製品同士の互換性と予算を購入前に確認できる3Dデスクセットアップサービスです。
+
+| 項目 | 内容 |
+|---|---|
+| 開発期間 | 2026.07 ~ 2026.08 |
+| 種別 | チーム開発 |
+| 担当 | Frontend |
+| 主な機能 | 実測スペックに基づく3D配置 · 互換性判定 · 予算確認 |
+| 主な技術 | React · Tailwind CSS（サービス全体: Spring Boot · Next.js · Three.js） |
+| 主な成果 | 🏆 プロジェクト優秀賞 |
+
+## 01. プロジェクト紹介
+
+![プロジェクト紹介](docs/readme/slide-01.png)
+
+## 02. 背景と課題
+
+![背景と課題](docs/readme/slide-02.png)
+
+## 03. 主な機能
+
+![主な機能](docs/readme/slide-03.png)
+
+## 04. 実行画面
+
+![実行画面](docs/readme/slide-04.png)
 
 ## 05. 担当業務
 
